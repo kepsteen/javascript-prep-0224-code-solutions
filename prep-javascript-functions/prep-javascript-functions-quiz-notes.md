@@ -5,7 +5,7 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What are the five parts of a function definition?
-function keyword, function name, parameters, code block
+function keyword, optional function name, parameters, curly braces, code block
 - How do you call a function?
 function name()
 - What is the difference between a parameter and an argument?
