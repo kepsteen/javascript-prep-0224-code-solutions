@@ -5,11 +5,11 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What are the five parts of a function definition?
-
+function keyword, function name, parameters, code block
 - How do you call a function?
-
+function name()
 - What is the difference between a parameter and an argument?
-
+a parameter is defined with the function and the arguments are passed with the function when it is called
 ## Notes
 
 All student notes should be written here.
